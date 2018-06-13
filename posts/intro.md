@@ -1,6 +1,7 @@
 ---
 title: "Intro"
 date: "2018-06-12"
+path: "/intro.md"
 ---
 ## Intro
 So, welcome to my blog. Common to a lot of blogs, this is mostly for me and not for you. All is vanity as they say. If you find my wandering thoughts of interest, please comment or email me! Life in a vacuum is no fun (unless you're a space scientist).
