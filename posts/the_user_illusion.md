@@ -12,4 +12,4 @@ The book starts from simple fundamental physics and gradually builds to describe
 
 Having a better understanding of how your subconscious is affected by environment, sleep and behaviours can help the individual take deliberate actions to mold and coerce the brain for the benefit of the person overall. For example, practising positive thoughts or meditation make it more likely that that will become your default state and thus in general a happier one! This is similar to cognitive behaviour therapy, but the nice this about the book is it explains how it all works. It's not just fluffy psychology magic.
 
-After reading this book I found many more excellent resources to help improve "my" mental relationship with my body and brain. [In particular this talk which I also highly recommend.](https://www.youtube.com/watch?v=L_30JzRGDHI&t=225s)
+After reading this book I found many more excellent resources to help improve "my" mental relationship with my body and brain. <a href="https://www.youtube.com/watch?v=L_30JzRGDHI" target="_blank">In particular this talk which I also highly recommend.</a>
